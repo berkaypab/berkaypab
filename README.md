@@ -2,22 +2,22 @@
 
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/berkaypab?tab=repositories)
-<h2>Welcome !!  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></h2><br/>
+<br/>
 
-Some things about me <br/>
 
-:one: Test Automation Developer with over 2 years of experience.<br/>
-:two: I’m a Software Engineer in Test.<br/> 
-:three: Proficient with Java, Junit, Appium, Php, CSS3, HTML5.<br/> 
-:four: Have experience many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently working on the <a href="https://github.com/getgauge/gauge">BDD Gauge </a><br/> 
-:six: Fun fact : Have been developing software testing frameworks for most part of my life.
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/berkaypab?tab=repositories)
 
-<h2> My Github Stats  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></h2><br/>
+Core Skills
+* Test Automation Developer with over 2 years of experience.<br/>
+* Strong analytical skills and level headed problem solver.
+* Experienced in behaviour driven test automation using Gauge Framework (Web, Android, API automation).
+* Web test automation using Selenium.
+* API test automation using RestAssured.
+* Mobile test automation using Appium.
+* Performance testing using JMeter.
+* Experienced in API testing using Postman.
+* Version controlling using Git.
+* Reporting and documentation using JIRA and Confluence.
+* Knowledge in Apache, SQL databases.
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=berkaypab&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkaypab&theme=tokyonight) |
 | --- | --- |
