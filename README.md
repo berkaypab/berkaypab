@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=berkaypab.berkaypab)  [![Github](https://img.shields.io/github/followers/berkaypab?label=Follow&style=social)](https://github.com/berkaypab)
 
-<h1 align="center">Hi 👋, I'm Berkay</h1>
+<h1 align="center">Hi, I'm Berkay</h1>
 
 <br/>
 
