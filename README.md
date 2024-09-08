@@ -7,7 +7,7 @@
 
 
 Core Skills
-* Software Development Engineer in Test with over 2 years of experience.<br/>
+* Software Development Engineer in Test with over 4 years of experience.<br/>
 * Strong analytical skills and level headed problem solver.
 * Experienced in behaviour driven test automation using Gauge Framework (Web, Android, API automation).
 * Web test automation using Selenium.
