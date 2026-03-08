@@ -22,6 +22,10 @@ Core Skills
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/berkaypb/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 <a href = 'https://www.github.com/berkaypab'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
+
+<a href='https://berkaypab.github.io/portfolio/'>
+  <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/512/841/841364.png"/>
+</a>
+
 <br>
 
